@@ -25,4 +25,4 @@ Foi construído como prática acadêmica, aplicando conceitos de **POO** e manip
 ## ⚙️ Como executar
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/sistema-cardiologista.git
+   git clone https://github.com/MatheusNeckel/Sistema-Cardiologista.git
